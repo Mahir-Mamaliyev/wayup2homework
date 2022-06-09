@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 156px;
+}
+
+h1, span {
+    color: #FE0000FF;
+}
+
+.text {
+    width: 106px;
+    background-color: #0000FEFF;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.setup-margin {
+    margin-top: 100px;
+}
+
+h2 {
+    background-color: #008001FF;
+    color: #ffffff;
+}
+
+.setup-padding {
+    padding-top: 50px;
+    padding-left: 54px;
+    height: 80px;
+}
+
+.setup-form-title {
+    padding-left: 130px;
+}
+
+.setup-list {
+    padding-bottom: 10px;
+}
+
+li {
+    font-size: 23px;
+    border: solid 1.2px;
+}
